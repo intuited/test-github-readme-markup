@@ -1,4 +1,4 @@
-`README`
+`README.markdown`
 -----------------
 
 This file is saved as README.markdown,
